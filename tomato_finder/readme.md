@@ -1,4 +1,4 @@
-#Tomato checker model#
+# Tomato checker model#
 
 In this project I trained a CNN model to predict if the tomato is good or bad. The accuracy of the model is 99%. It was trained upon 100 epoch.
 
